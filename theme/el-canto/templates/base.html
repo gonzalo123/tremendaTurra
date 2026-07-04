@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ DEFAULT_LANG }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+    {% if SITESUBTITLE %}
+      <meta name="description" content="{{ SITESUBTITLE }}">
+    {% endif %}
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+    {% if FEED_ALL_ATOM %}
+      <link rel="alternate" type="application/atom+xml" title="{{ SITENAME }} Atom Feed" href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}">
+    {% elif FEED_ATOM %}
+      <link rel="alternate" type="application/atom+xml" title="{{ SITENAME }} Atom Feed" href="{{ SITEURL }}/{{ FEED_ATOM }}">
+    {% endif %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-title" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+        {% if SITESUBTITLE %}
+          <p class="site-subtitle">{{ SITESUBTITLE }}</p>
+        {% endif %}
+        <nav class="site-nav" aria-label="Principal">
+          {% for title, link in MENUITEMS %}
+            <a href="{{ SITEURL }}{{ link }}">{{ title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap main-content">
+      {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Tremenda Turra. Ensayos y reflexiones sin pies ni cabeza.</p>
+      </div>
+    </footer>
+  </body>
+</html>
