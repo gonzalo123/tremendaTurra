@@ -7,7 +7,6 @@ Slug: diosas-monstruos-y-mujeres-que-saben-cosas
 Summary: Tremenda turra sobre la visión de la mujer como peligro en la cultura griega y cómo eso ha llegado hasta nuestros días.
 Status: published
 
-Escribe aquí el primer párrafo.
 A veces una pregunta aparentemente pequeña abre una puerta enorme. ¿Cuándo empezó a construirse ese lugar incómodo de la mujer como amenaza, como desorden, como exceso, como cuerpo que debe ser vigilado? Si uno tira de ese hilo, acaba llegando bastante pronto a la antigua Grecia. No debería sorprendernos demasiado: casi todos los caminos culturales pasan por allí, para bien y para mal.
 
 La antigua Grecia es fascinante. ¿A quién no le gusta la antigua Grecia? Como dijo Percy B. Shelley, “todos somos griegos”. Nuestra cultura, nuestra literatura, nuestra filosofía, nuestra política y buena parte de nuestra forma de pensar vienen de ahí. Todo lo bueno viene de ahí. Y también bastante de lo malo. De aquellos polvos, estos lodos.
