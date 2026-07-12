@@ -5,7 +5,7 @@ Category: Ensayos
 Tags: 
 Slug: diosas-monstruos-y-mujeres-que-saben-cosas
 Summary: Tremenda turra sobre la visión de la mujer como peligro en la cultura griega y cómo eso ha llegado hasta nuestros días.
-Status: draft
+Status: published
 
 Escribe aquí el primer párrafo.
 A veces una pregunta aparentemente pequeña abre una puerta enorme. ¿Cuándo empezó a construirse ese lugar incómodo de la mujer como amenaza, como desorden, como exceso, como cuerpo que debe ser vigilado? Si uno tira de ese hilo, acaba llegando bastante pronto a la antigua Grecia. No debería sorprendernos demasiado: casi todos los caminos culturales pasan por allí, para bien y para mal.
@@ -80,7 +80,10 @@ Las religiones modernas tienden a ser más excluyentes, más dogmáticas, más c
 
 En todo ese proceso de creación literaria y cultural se produce una selección. Los mitos se adaptan, se transforman y se convierten en algo distinto a lo que quizá fueron en origen. Y ahí aparece una de las líneas más persistentes de la cultura griega: la transformación de la mujer en algo peligroso.
 
-La mujer como ser que puede traer la destrucción, la ruina y la perdición. La mujer como amenaza para el orden establecido, para la estabilidad social, para la seguridad de los hombres. La mujer como amenaza para la masculinidad, para la virilidad, para la hombría. La mujer como amenaza, directamente.
+- La mujer como ser que puede traer la destrucción, la ruina y la perdición.
+- La mujer como amenaza para el orden establecido, para la estabilidad social, para la seguridad de los hombres.
+- La mujer como amenaza para la masculinidad, para la virilidad, para la hombría.
+- La mujer como amenaza, directamente.
 
 Las Amazonas son especialmente interesantes por eso. Son la idealización y, a la vez, la pesadilla de una sociedad matriarcal. Una comunidad en la que las mujeres tienen el poder y los hombres quedan fuera, sometidos o reducidos a una función secundaria. Para un griego antiguo, aquello era lo opuesto a la ciudad bien ordenada. Era la barbarie convertida en sistema político. La prueba de lo que podía pasar si se daba poder a las mujeres. Si se les daba libertad. Si se las dejaba fuera de la tutela masculina.
 
@@ -88,7 +91,9 @@ La mujer, según esa mirada, necesitaba ser controlada por un hombre, dominada p
 
 También es reseñable el caso de las musas. Las musas son divinidades colectivas que inspiran a poetas, artistas y músicos. La *Ilíada* y la *Odisea* arrancan con referencias directas a ellas: “Canta, oh musa, la cólera del Pelida Aquiles” y “Háblame, musa, de aquel varón de multiforme ingenio”. Las musas tienen conocimiento. Tienen poder. No son simplemente chicas bonitas apoyadas en una columna mientras un señor con barba escribe un soneto.
 
-En la *Teogonía*, Hesíodo hace decir a las musas algo extraordinario: “Sabemos decir muchas mentiras con apariencia de verdades; y sabemos, cuando queremos, cantar la verdad”.
+En la *Teogonía*, Hesíodo hace decir a las musas algo extraordinario:
+
+> “Sabemos decir muchas mentiras con apariencia de verdades; y sabemos, cuando queremos, cantar la verdad”.
 
 Ahí hay una idea potentísima. Las musas no solo inspiran. Saben. Y no solo saben la verdad: saben también fabricar mentiras con apariencia de verdad. Tienen una relación con el conocimiento, con la palabra y con el poder narrativo. Y eso, en una cultura que teme a la mujer que sabe, es muy peligroso.
 
@@ -106,7 +111,7 @@ La mujer era vista como un ser pasivo cuya función consistía en obedecer al ho
 
 Tucídides, en el discurso fúnebre de Pericles, resume de forma brutal el ideal femenino:
 
-“Vuestra gran gloria consistirá en no ser inferiores a vuestra condición natural, y que entre los hombres haya sobre vosotras las menores conversaciones posibles en buena o mala parte.”
+> “Vuestra gran gloria consistirá en no ser inferiores a vuestra condición natural, y que entre los hombres haya sobre vosotras las menores conversaciones posibles en buena o mala parte.”
 
 La gloria de los hombres está en la guerra, en la ciudad, en el discurso, en el sacrificio público. La gloria de las mujeres está en no ser mencionadas. En pasar sin ruido. En no llamar la atención ni para bien ni para mal. Los hombres mueren en la guerra cumpliendo con el ideal cívico. La mujer, sometida a su propio destino, muere en la cama. Si para el hombre la muerte honorable es en el campo de batalla, para la mujer lo es dando a luz. La gloria de las mujeres es carecer de ella.
 
@@ -172,25 +177,25 @@ En ese poema, Semónides no pretende retratar mujeres reales, sino ordenar una s
 
 El poema muestra una visión profundamente misógina, donde la mujer aceptable es aquella que no desborda el espacio doméstico que se le ha asignado.
 
-La mujer-cerda representa el fracaso del orden doméstico. Vive entre suciedad, no cuida la casa y aparece asociada a lo corporal más bajo. Es una imagen de degradación.
+- La mujer-cerda representa el fracaso del orden doméstico. Vive entre suciedad, no cuida la casa y aparece asociada a lo corporal más bajo. Es una imagen de degradación.
 
-La mujer-zorra es más inquietante porque no es torpe, sino inteligente. Observa, calcula, entiende tanto lo bueno como lo malo, pero esa inteligencia se presenta como engaño. Aquí el problema no es la ignorancia femenina, sino su lucidez.
+- La mujer-zorra es más inquietante porque no es torpe, sino inteligente. Observa, calcula, entiende tanto lo bueno como lo malo, pero esa inteligencia se presenta como engaño. Aquí el problema no es la ignorancia femenina, sino su lucidez.
 
-La mujer-perra representa la falta de silencio. Quiere saberlo todo, mira todo, habla de todo. Para un mundo que valora en la mujer la discreción y el recogimiento, su defecto es ocupar demasiado espacio.
+- La mujer-perra representa la falta de silencio. Quiere saberlo todo, mira todo, habla de todo. Para un mundo que valora en la mujer la discreción y el recogimiento, su defecto es ocupar demasiado espacio.
 
-La mujer-tierra es casi lo contrario: no hace nada, no entiende nada, permanece inmóvil. Es una figura de pasividad absoluta, una carga que consume sin aportar.
+- La mujer-tierra es casi lo contrario: no hace nada, no entiende nada, permanece inmóvil. Es una figura de pasividad absoluta, una carga que consume sin aportar.
 
-La mujer-mar, como el mar, puede estar en calma un día y al siguiente volverse insoportable. Aquí aparece la mujer como naturaleza cambiante, imposible de prever y, por tanto, imposible de gobernar.
+- La mujer-mar, como el mar, puede estar en calma un día y al siguiente volverse insoportable. Aquí aparece la mujer como naturaleza cambiante, imposible de prever y, por tanto, imposible de gobernar.
 
-La mujer-burra concentra el tópico del exceso físico. Come mucho, soporta trabajos por obligación y se presenta como sexualmente descontrolada. Es una caricatura corporal, animalizada casi por completo.
+- La mujer-burra concentra el tópico del exceso físico. Come mucho, soporta trabajos por obligación y se presenta como sexualmente descontrolada. Es una caricatura corporal, animalizada casi por completo.
 
-La mujer-comadreja introduce una dimensión más siniestra. No solo es desagradable, sino también dañina para la casa. Roba, corrompe, incomoda. Es la esposa como presencia tóxica dentro del hogar.
+- La mujer-comadreja introduce una dimensión más siniestra. No solo es desagradable, sino también dañina para la casa. Roba, corrompe, incomoda. Es la esposa como presencia tóxica dentro del hogar.
 
-La mujer-yegua es bella, elegante y deseable, pero precisamente por eso peligrosa. No trabaja, se cuida, se perfuma, exige gastos y solo resulta soportable para un hombre rico o poderoso. Es el tópico de la belleza como lujo destructivo.
+- La mujer-yegua es bella, elegante y deseable, pero precisamente por eso peligrosa. No trabaja, se cuida, se perfuma, exige gastos y solo resulta soportable para un hombre rico o poderoso. Es el tópico de la belleza como lujo destructivo.
 
-La mujer-mono es la más abiertamente humillante. Representa la fealdad, la burla y la ridiculez. Si la yegua era peligrosa por bella, el mono lo es por grotesca. Ambas quedan atrapadas en el mismo juicio masculino sobre el cuerpo femenino.
+- La mujer-mono es la más abiertamente humillante. Representa la fealdad, la burla y la ridiculez. Si la yegua era peligrosa por bella, el mono lo es por grotesca. Ambas quedan atrapadas en el mismo juicio masculino sobre el cuerpo femenino.
 
-La única mujer positiva es la abeja. Pero positiva no significa libre, ni sabia, ni autónoma, ni poderosa. Significa útil. La mujer-abeja trabaja, sostiene la casa, es fértil, discreta, ordenada. Es buena porque no molesta. Porque no desborda. Porque no rompe el marco. Porque no exige ser mirada como sujeto, sino que encaja en la función que el hombre le ha asignado.
+- La única mujer positiva es la abeja. Pero positiva no significa libre, ni sabia, ni autónoma, ni poderosa. Significa útil. La mujer-abeja trabaja, sostiene la casa, es fértil, discreta, ordenada. Es buena porque no molesta. Porque no desborda. Porque no rompe el marco. Porque no exige ser mirada como sujeto, sino que encaja en la función que el hombre le ha asignado.
 
 Parece ser que el origen de esta misoginia griega y de la sensación de superioridad del hombre sobre la mujer puede estar también relacionado con cuestiones demográficas y sociales. En la Grecia clásica habría más hombres que mujeres, al menos según algunas interpretaciones basadas en el número de tumbas masculinas y femeninas en los cementerios. Hoy estamos aproximadamente fifty-fifty, pero allí el desequilibrio pudo ser mayor.
 
