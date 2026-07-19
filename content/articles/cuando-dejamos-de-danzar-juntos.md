@@ -1,4 +1,4 @@
-Title: # Cuando dejamos de danzar juntos. Rito, tragedia y emoción en la era del scroll infinito
+Title: Cuando dejamos de danzar juntos. Rito, tragedia y emoción en la era del scroll infinito
 Date: 2026-07-19
 Modified: 2026-07-19
 Category: Ensayos
